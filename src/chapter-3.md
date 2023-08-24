@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Financial Services
-=========================================================
 
 Artificial intelligence (AI) technology has the potential to transform the financial services industry by improving efficiency, reducing costs, and enhancing customer experiences. However, implementing AI initiatives can be a complex process. In this chapter, we will explore how financial services can get started with AI.
 

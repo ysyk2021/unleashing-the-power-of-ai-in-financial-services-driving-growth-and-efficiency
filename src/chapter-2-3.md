@@ -1,5 +1,3 @@
-Robotic Process Automation (RPA) for Process Optimization and Automation
-======================================================================================================================================
 
 Robotic process automation (RPA) is a type of software that automates repetitive, rules-based tasks. In financial services, RPA can be used to automate processes such as data entry, account reconciliation, and compliance reporting.
 

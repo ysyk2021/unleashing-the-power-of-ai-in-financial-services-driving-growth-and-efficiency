@@ -1,5 +1,3 @@
-Enhancing Customer Service with AI-Powered Chatbots and Personalization
-======================================================================================================================
 
 Artificial intelligence (AI) is revolutionizing how the financial services industry operates. By leveraging AI-powered technologies, financial institutions can streamline their operations, improve customer experience, and achieve business growth. In this chapter, we will explore two essential AI techniques for financial growth: chatbots and personalization.
 

@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Financial Growth
-=============================================
 
 Artificial intelligence (AI) technology offers financial services the opportunity to drive growth and achieve better outcomes. In this chapter, we will explore three key areas where financial services can use AI-powered techniques to achieve growth:
 

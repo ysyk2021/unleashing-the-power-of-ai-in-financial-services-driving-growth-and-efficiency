@@ -1,5 +1,3 @@
-Creating a Customized AI Roadmap for Financial Services Enhancement
-==============================================================================================================================
 
 Implementing artificial intelligence (AI) initiatives in financial services can be a complex process. Before selecting AI tools and implementing them into workflows, financial services should develop a customized AI roadmap to guide their efforts.
 

@@ -1,5 +1,3 @@
-Understanding the Tradeoffs of AI-Enhanced Financial Services
-===========================================================================================================================
 
 As financial services continue to adopt AI technology, it is important to consider the potential tradeoffs of these initiatives. In this chapter, we will explore some key considerations when evaluating the impact of AI on financial services.
 

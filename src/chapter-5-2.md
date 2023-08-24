@@ -1,5 +1,3 @@
-Reducing Costs and Fraud with AI-Enabled Risk Management and Compliance
-==========================================================================================================================
 
 Risk management and compliance are essential components of financial services, but they can also be costly and time-consuming. In this chapter, we will explore how AI technology can be used to reduce costs and fraud in financial services through AI-enabled risk management and compliance.
 

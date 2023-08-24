@@ -1,5 +1,3 @@
-Natural Language Processing (NLP) for Automated Customer Service and Feedback
-===========================================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to revolutionize the way financial services interact with customers. In this chapter, we will explore one key area of AI technology that is particularly relevant to customer service: natural language processing (NLP).
 

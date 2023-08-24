@@ -1,5 +1,3 @@
-Identifying Financial Services Processes that can be Improved with AI
-================================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to transform the financial services industry by improving efficiency, reducing costs, and enhancing customer experiences. In this chapter, we will explore how financial services can identify processes that can be improved with AI.
 

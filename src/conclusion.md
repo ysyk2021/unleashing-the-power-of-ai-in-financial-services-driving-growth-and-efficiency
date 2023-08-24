@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the potential of AI technology to transform financial services by enhancing growth and efficiency. We have covered topics such as understanding AI technology in financial services, evaluating the impact of AI on financial services, and balancing automation with human expertise.
 

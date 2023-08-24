@@ -1,5 +1,3 @@
-The Future of AI Adoption in Financial Services
-======================================================================
 
 As AI technology continues to evolve, it is expected that adoption in financial services will continue to increase. In this chapter, we will explore the potential future of AI adoption in financial services.
 

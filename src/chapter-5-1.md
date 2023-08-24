@@ -1,5 +1,3 @@
-Streamlining Workflow with AI-Powered Automation and Digital Transformation
-==============================================================================================================================
 
 In the financial services industry, streamlining workflow is a critical component of driving efficiency and reducing costs. One way to achieve this is by leveraging artificial intelligence (AI) technology to automate repetitive tasks and processes.
 

@@ -1,5 +1,3 @@
-Improving Investment Management with AI-Powered Predictive Analytics and Portfolio Optimization
-==============================================================================================================================================
 
 The financial services industry is constantly seeking ways to improve investment management and drive growth. One way to achieve this is by leveraging artificial intelligence (AI) technology to improve predictive analytics and portfolio optimization.
 

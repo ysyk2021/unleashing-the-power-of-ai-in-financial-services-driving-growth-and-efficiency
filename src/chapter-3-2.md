@@ -1,5 +1,3 @@
-Selecting AI Tools and Implementing Them into Workflows
-==================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to transform the financial services industry, but implementing AI initiatives can be a daunting task. In this chapter, we will explore how financial services can get started with AI by selecting the right tools and implementing them into workflows.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology in Financial Services
-============================================================
 
 Artificial intelligence (AI) technology has the potential to transform the financial services industry by improving efficiency, reducing costs, and enhancing customer experiences. In this chapter, we will explore three key areas of AI technology that are particularly relevant to financial services: natural language processing (NLP), machine learning, and robotic process automation (RPA).
 

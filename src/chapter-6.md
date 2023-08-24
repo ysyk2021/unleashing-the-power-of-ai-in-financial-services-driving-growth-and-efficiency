@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Financial Services
-============================================================
 
 As financial services continue to adopt AI technology, it is important to evaluate the impact of these initiatives. In this chapter, we will explore some key considerations when evaluating the impact of AI on financial services.
 
@@ -23,5 +21,4 @@ Conclusion
 ----------
 
 Evaluating the impact of AI on financial services is critical to ensuring that these initiatives are effective and sustainable. By considering the potential tradeoffs of AI-enhanced financial services and balancing automation with human expertise, financial services can successfully leverage AI technology to drive growth and efficiency while minimizing risks and maximizing benefits.
-
 

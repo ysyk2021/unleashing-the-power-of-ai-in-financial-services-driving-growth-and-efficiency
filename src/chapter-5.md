@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Financial Efficiency
-=================================================
 
 In addition to driving growth, artificial intelligence (AI) technology can help financial services improve efficiency and reduce costs. In this chapter, we will explore how financial services can use AI-powered automation, risk management, compliance, and data management to streamline workflow, reduce costs and fraud, and improve data management and security.
 

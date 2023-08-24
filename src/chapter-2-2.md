@@ -1,5 +1,3 @@
-Machine Learning for Predictive Analytics and Decision-Making
-===========================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to revolutionize the way financial services make decisions. In this chapter, we will explore one key area of AI technology that is particularly relevant to decision-making: machine learning.
 

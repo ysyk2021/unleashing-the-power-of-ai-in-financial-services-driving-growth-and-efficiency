@@ -1,5 +1,4 @@
-Chapter 3: Reducing Costs and Fraud with AI-Enabled Risk Management and Compliance
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) is revolutionizing risk management and compliance in the financial services industry. By harnessing the power of AI, organizations can effectively reduce costs, mitigate risks, and combat fraud. This technology provides the ability to analyze vast amounts of data, identify patterns, and make real-time decisions, leading to increased efficiency and improved regulatory compliance.
 

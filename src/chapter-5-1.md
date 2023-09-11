@@ -1,5 +1,4 @@
-Chapter 4: Streamlining Workflow with AI-Powered Automation and Digital Transformation
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) is revolutionizing workflow processes in the financial services industry. By harnessing the power of AI, organizations can streamline their operations, enhance efficiency, and drive digital transformation. This technology provides the ability to automate repetitive tasks, optimize resource allocation, and enable seamless integration across various systems.
 

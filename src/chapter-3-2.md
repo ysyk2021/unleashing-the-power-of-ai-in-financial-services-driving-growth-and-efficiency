@@ -1,5 +1,4 @@
-Chapter 6: Selecting AI Tools and Implementing Them into Workflows
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting appropriate AI tools and implementing them into workflows in the financial services industry. The successful adoption of artificial intelligence (AI) requires careful consideration of various factors, including business needs, technological capabilities, and integration with existing workflows. This chapter provides guidance on selecting AI tools and effectively integrating them into financial service workflows.
 
